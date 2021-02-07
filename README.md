@@ -1,2 +1,2 @@
 # Defender
-Minecraft kill aura bot
+# Minecraft PvP Bot
